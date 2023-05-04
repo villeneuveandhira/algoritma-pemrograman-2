@@ -1,0 +1,35 @@
+Contoh masukan:
+2
+2001 Aldian 100
+2004 Binsar 80
+3
+2008 Carla 85
+2003 Ellona 70
+2005 Freya 75
+3
+2006 Godwin 65
+2007 Handicki 90
+2002 Techi 95
+
+
+Contoh keluaran:
+====================
+2001 Aldian 100
+2002 Techi 95
+2003 Ellona 70
+2004 Binsar 80
+2005 Freya 75
+2006 Godwin 65
+2007 Handicki 90
+2008 Carla 85
+====================
+2001 Aldian 100
+2002 Techi 95
+2004 Binsar 80
+2003 Ellona 70
+====================
+2007 Handicki 90
+2008 Carla 85
+2005 Freya 75
+2006 Godwin 65
+====================

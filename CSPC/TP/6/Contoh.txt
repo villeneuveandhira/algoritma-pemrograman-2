@@ -1,0 +1,117 @@
+Contoh Masukan :
+3
+sepatu 750000 5.0
+smartphone 5000000 4.5
+headset 75000 2.5
+2
+kuali 294000 4.1
+meja 173000 4.7
+4
+meja_lipat 87700 3.7
+tas 210000 4.7
+jam 310000 4.2
+baju 50000 3.4
+500000
+s
+harga
+
+Contoh Keluaran :
+Wishlist Ana:
+-------------------------------
+baju 50000 3.4
+headset 75000 2.5
+meja_lipat 87700 3.7
+meja 173000 4.7
+tas 210000 4.7
+kuali 294000 4.1
+jam 310000 4.2
+sepatu 750000 5.0
+smartphone 5000000 4.5
+===============================
+barang yang dibeli:
+-------------------------------
+baju 50000 3.4
+headset 75000 2.5
+meja_lipat 87700 3.7
+meja 173000 4.7
+===============================
+total belanja : Rp. 385700
+sisa budget   : Rp. 114300
+===============================
+
+??
+
+Contoh Masukan 2 :
+3
+kosmetik 1000000 4.0
+laptop 7000000 4.2
+sapu 20000 4.9
+2
+kabel_20m 250000 4.7
+rak 500000 4.9
+3
+laptop_2 5000000 5.0
+earphone 300000 4.1
+tv 3099000 4.5
+2000000
+q
+rating
+
+Contoh Keluaran 2 :
+Wishlist Ana:
+-------------------------------
+laptop_2 5000000 5.0
+sapu 20000 4.9
+rak 500000 4.9
+kabel_20m 250000 4.7
+tv 3099000 4.5
+laptop 7000000 4.2
+earphone 300000 4.1
+kosmetik 1000000 4.0
+===============================
+barang yang dibeli:
+-------------------------------
+tidak ada barang yang dibeli
+===============================
+total belanja : Rp. 0
+sisa budget   : Rp. 2000000
+===============================
+
+??
+
+Contoh Masukan 3 :
+2
+sandal 20000 2.5
+sepatu 200000 4.5
+2
+piring 100000 4.1
+tas 520000 4.7
+2
+masker 40000 3.5
+jaket 150999 4.6
+1500000
+i
+rating
+
+Contoh Keluaran 3 :
+Wishlist Ana:
+-------------------------------
+tas 520000 4.7
+jaket 150999 4.6
+sepatu 200000 4.5
+piring 100000 4.1
+masker 40000 3.5
+sandal 20000 2.5
+===============================
+barang yang dibeli:
+-------------------------------
+tas 520000 4.7
+jaket 150999 4.6
+sepatu 200000 4.5
+piring 100000 4.1
+masker 40000 3.5
+sandal 20000 2.5
+===============================
+total belanja : Rp. 1030999
+sisa budget   : Rp. 469001
+===============================
